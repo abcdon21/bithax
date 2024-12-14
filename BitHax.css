@@ -15,8 +15,7 @@ body {
 /* Dashboard Container */
 .dashboard-container {
     max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
+   
     background: white;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -26,6 +25,7 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    align-items:center;
     align-items: center;
     padding: 15px 10px;
     border-bottom: 1px solid #ddd;
